@@ -40,8 +40,8 @@ class ParseAndFormatterManager {
             formatter
           )
 
-        val executionTimeInMinutes =
-          Duration.between(startDateTime, endDateTime).toMinutes
+        val executionTimeInSeconds =
+          Duration.between(startDateTime, endDateTime).toMillis/1000
 
         solutionsDetails += new SolutionDetails(
           inputFile.toString,
@@ -49,7 +49,7 @@ class ParseAndFormatterManager {
           objectiveFunction.toDouble,
           shiftCount.toLong,
           tripperCount.toLong,
-          executionTimeInMinutes
+          executionTimeInSeconds
         )
 
       }

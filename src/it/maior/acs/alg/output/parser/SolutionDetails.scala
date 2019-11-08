@@ -5,5 +5,5 @@ case class SolutionDetails(fileAbsolutePath: String,
                            objectiveFunction: Double,
                            shiftCount: Long,
                            tripperCount: Long,
-                           executionTimeInMinutes: Long)
+                           executionTimeInSeconds: Long)
 

@@ -31,7 +31,7 @@ object ParseAndFormatApplication {
 
     val pw = new PrintWriter(new File(outputPath))
 
-    pw.write("fileAbsolutePath,solutionId,objectiveFunction,shiftCount,tripperCount,executionTimeInMinutes")
+    pw.write("fileAbsolutePath,solutionId,objectiveFunction,shiftCount,tripperCount,executionTimeInSeconds")
     pw.write("\n")
     for (solutionDetails <- solutionsDetails) {
       pw.write(solutionDetails.fileAbsolutePath +",")
@@ -39,7 +39,7 @@ object ParseAndFormatApplication {
       pw.write(solutionDetails.objectiveFunction +",")
       pw.write(solutionDetails.shiftCount +",")
       pw.write(solutionDetails.tripperCount +",")
-      pw.write(solutionDetails.executionTimeInMinutes.toString)
+      pw.write(solutionDetails.executionTimeInSeconds.toString)
       pw.write("\n")
     }
     pw.close

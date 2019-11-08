@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aced01b-c2c7-4442-840a-9d76482f4637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatterManager.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/SolutionDetails.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ParseAndFormatACSAlgOutputFiles/it/maior/acs/alg/output/parser/ParseAndFormatApplication$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ParseAndFormatACSAlgOutputFiles/it/maior/acs/alg/output/parser/ParseAndFormatApplication$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ParseAndFormatACSAlgOutputFiles/it/maior/acs/alg/output/parser/ParseAndFormatApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ParseAndFormatACSAlgOutputFiles/it/maior/acs/alg/output/parser/ParseAndFormatApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatApplication.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatApplication.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/toremove.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatterManager.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatterManager.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/SolutionDetails.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/SolutionDetails.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +19,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatApplication.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="331">
               <caret line="33" column="106" selection-start-line="33" selection-start-column="106" selection-end-line="33" selection-end-column="106" />
               <folding>
                 <element signature="e#39#73#0" expanded="true" />
@@ -38,10 +34,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseAndFormatACSAlgOutputFiles.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatterManager.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+            <state relative-caret-position="299">
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
               <folding>
                 <element signature="e#39#81#0" expanded="true" />
               </folding>
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/SolutionDetails.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -277,20 +278,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ParseAndFormatACSAlgOutputFiles.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/SolutionDetails.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatterManager.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
           <folding>
             <element signature="e#39#81#0" expanded="true" />
           </folding>
@@ -299,7 +303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/it/maior/acs/alg/output/parser/ParseAndFormatApplication.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="331">
           <caret line="33" column="106" selection-start-line="33" selection-start-column="106" selection-end-line="33" selection-end-column="106" />
           <folding>
             <element signature="e#39#73#0" expanded="true" />
