@@ -1,0 +1,207 @@
+fileAbsolutePath,solutionId,objectiveFunction,shiftCount,tripperCount,executionTimeInMinutes
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,1,9191.16713,247,19,11
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,2,9176.792123,247,19,14
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,3,9173.792104,247,19,17
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,4,9166.452116,246,19,19
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,5,9166.15212,245,19,22
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,6,9169.207104,245,19,25
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,7,9176.612088,246,19,27
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,8,9158.627096,244,20,29
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,9,9178.527081,242,20,31
+C:\Users\mato\Desktop\Scenarios\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,10,9176.812065,245,20,35
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,1,9191.16713,247,19,11
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,2,9176.792123,247,19,15
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,3,9173.792104,247,19,18
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,4,9166.452116,246,19,20
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,5,9166.15212,245,19,23
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,6,9169.207104,245,19,26
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,7,9176.612088,246,19,29
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,8,9158.627096,244,20,31
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,9,9178.527081,242,20,34
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\E-Piloti-Gennaio.SoluzioniTrovate,10,9176.812065,245,20,37
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,1,9191.16713,247,19,13
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,2,9176.792123,247,19,17
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,3,9173.792104,247,19,21
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,4,9166.452116,246,19,24
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,5,9166.15212,245,19,27
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,6,9169.207104,245,19,31
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,7,9176.612088,246,19,33
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,8,9158.627096,244,20,36
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,9,9178.527081,242,20,38
+C:\Users\mato\Desktop\Scenarios\2019-January - CommandLine\NoFasceFine\E-Piloti-Gennaio-NoFasceFine.SoluzioniTrovate,10,9176.812065,245,20,42
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,1,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,2,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,3,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,4,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,5,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,6,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,7,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,8,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,9,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days\E-Piloti-Gennaio.SoluzioniTrovate,10,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,1,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,2,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,3,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,4,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,5,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,6,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,7,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,8,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,9,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-AirportParameterDifferentOrder\E-Piloti-Gennaio.SoluzioniTrovate,10,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,1,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,2,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,3,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,4,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,5,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,6,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,7,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,8,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,9,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-2days-SigleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,10,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,1,9191.16713,247,19,14
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,2,9176.792123,247,19,19
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,3,9173.792104,247,19,22
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,4,9166.452116,246,19,26
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,5,9166.15212,245,19,31
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,6,9169.207104,245,19,36
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,7,9176.612088,246,19,39
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,8,9158.627096,244,20,42
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,9,9178.527081,242,20,45
+C:\Users\mato\Desktop\Scenarios\2019-January-NoE195ACParameters\E-Piloti-Gennaio-NoE195ACParameters.SoluzioniTrovate,10,9176.812065,245,20,49
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,1,9264.232078,263,19,12
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,2,9240.552072,260,19,15
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,3,9242.067066,260,19,20
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,4,9243.86206,259,20,22
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,5,9248.777058,259,20,25
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,6,9228.312066,258,20,27
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,7,9229.252062,259,19,31
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,8,9243.037065,260,19,34
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,9,9235.692058,261,19,38
+C:\Users\mato\Desktop\Scenarios\2019-January-NoVRNAirportParameters\E-Piloti-Gennaio-NoVRNAirportParameters.SoluzioniTrovate,10,9234.527054,260,19,39
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,1,9191.16713,247,19,13
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,2,9176.792123,247,19,18
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,3,9173.792104,247,19,22
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,4,9166.452116,246,19,24
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,5,9166.15212,245,19,27
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,6,9169.207104,245,19,30
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,7,9176.612088,246,19,33
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,8,9158.627096,244,20,35
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,9,9178.527081,242,20,37
+C:\Users\mato\Desktop\Scenarios\2019-January-SingleTipologia\E-Piloti-Gennaio.SoluzioniTrovate,10,9176.812065,245,20,40
+C:\Users\mato\Desktop\Scenarios\2019-March\E-Piloti-Marzo.SoluzioniTrovate,1,10985.219861,303,19,38
+C:\Users\mato\Desktop\Scenarios\2019-March\E-Piloti-Marzo.SoluzioniTrovate,2,10990.184873,301,19,44
+C:\Users\mato\Desktop\Scenarios\2019-March\E-Piloti-Marzo.SoluzioniTrovate,3,10964.229872,301,19,52
+C:\Users\mato\Desktop\Scenarios\2019-March\E-Piloti-Marzo.SoluzioniTrovate,4,11003.759849,306,19,59
+C:\Users\mato\Desktop\Scenarios\2019-March\E-Piloti-Marzo.SoluzioniTrovate,5,10969.814851,301,19,64
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,1,11889.834982,301,18,104
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,2,11884.679956,301,18,123
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,3,11855.664968,297,18,143
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,4,11849.229975,299,18,163
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,5,11845.834969,298,18,177
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,6,11855.274946,300,18,190
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,7,11838.749934,298,18,200
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,8,11830.86994,298,18,211
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,9,11821.959931,297,18,222
+C:\Users\mato\Desktop\Scenarios\2019-Oct\E-Piloti-Ottobre.SoluzioniTrovate,10,11804.004929,297,18,232
+C:\Users\mato\Desktop\Scenarios\Demo\Algorithm-Input\E-Piloti-Maggio.SoluzioniTrovate,1,19609.365252,364,85,79
+C:\Users\mato\Desktop\Scenarios\Demo\Algorithm-Input\E-Piloti-Maggio.SoluzioniTrovate,2,19543.715258,364,83,95
+C:\Users\mato\Desktop\Scenarios\Demo-ExternalFlight\Algorithm-Input\E-Piloti-Maggio.SoluzioniTrovate,1,19609.365252,364,85,79
+C:\Users\mato\Desktop\Scenarios\Demo-ExternalFlight\Algorithm-Input\E-Piloti-Maggio.SoluzioniTrovate,2,19543.715258,364,83,95
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,1,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,2,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,3,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,4,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,5,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,6,1008.538842,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,7,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,8,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,9,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\00\00.SoluzioniTrovate,10,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,1,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,2,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,3,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,4,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,5,1028.775036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,6,1008.538842,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,7,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,8,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,9,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\01\01.SoluzioniTrovate,10,939.155036,7,10,0
+C:\Users\mato\Desktop\Scenarios\Demo-Script\2019-January\E-Piloti-Gennaio.SoluzioniTrovate,1,8657.108487,258,19,25
+C:\Users\mato\Desktop\Scenarios\Demo-Script\2019-January02\E-Piloti-Gennaio02.SoluzioniTrovate,1,8657.108487,258,19,23
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations-PC-GIGI2.SoluzioniTrovate,1,4662.859975,152,13,8
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations-PC-GIGI2.SoluzioniTrovate,2,4677.919978,152,13,10
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations-PC-GIGI2.SoluzioniTrovate,3,4651.289979,150,13,14
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations-PC-GIGI2.SoluzioniTrovate,4,4645.029978,149,13,16
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations-PC-GIGI2.SoluzioniTrovate,5,4668.634971,149,13,20
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations.SoluzioniTrovate,1,4662.859975,152,13,8
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations.SoluzioniTrovate,2,4677.919978,152,13,9
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations.SoluzioniTrovate,3,4651.289979,150,13,12
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations.SoluzioniTrovate,4,4645.029978,149,13,13
+C:\Users\mato\Desktop\Scenarios\tes-benchmark-MIGI-4BestRotations\E-Piloti-Settembre-4BestRotations.SoluzioniTrovate,5,4668.634971,149,13,16
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block1.SoluzioniTrovate,1,73077.785562,91,448,3
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block1.SoluzioniTrovate,2,73217.255556,89,450,6
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block1.SoluzioniTrovate,3,73226.80057,90,450,9
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block1.SoluzioniTrovate,4,73037.89056,89,448,11
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block1.SoluzioniTrovate,5,73055.860561,90,448,12
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block2.SoluzioniTrovate,1,6045.679949,107,21,55
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block2.SoluzioniTrovate,2,6051.334939,108,21,63
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block2.SoluzioniTrovate,3,6049.979951,108,21,70
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block2.SoluzioniTrovate,4,6025.884952,106,21,76
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block2.SoluzioniTrovate,5,6032.534949,106,21,82
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block3.SoluzioniTrovate,1,7520.200023,151,36,3
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block3.SoluzioniTrovate,2,7505.070041,148,36,4
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block3.SoluzioniTrovate,3,7483.745021,146,36,6
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block3.SoluzioniTrovate,4,7505.73501,148,36,7
+C:\Users\mato\Desktop\Scenarios\test-benchmark-partition5-5-4Rotations\Block3.SoluzioniTrovate,5,7484.105022,147,36,8
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,1,9191.16713,247,19,19
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,2,9176.792123,247,19,25
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,3,9173.792104,247,19,30
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,4,9166.452116,246,19,35
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,5,9166.15212,245,19,40
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,6,9169.207104,245,19,45
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,7,9176.612088,246,19,49
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,8,9158.627096,244,20,52
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,9,9178.527081,242,20,56
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019.SoluzioniTrovate,10,9176.812065,245,20,61
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,1,9223.772105,245,19,11
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,2,9219.207103,242,19,17
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,3,9178.922108,244,19,22
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,4,9179.047113,245,19,25
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,5,9177.727102,246,19,28
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,6,9158.852105,247,19,30
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,7,9165.082112,245,19,33
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,8,9159.447102,248,19,35
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,9,9140.287104,245,19,39
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Gennaio_2019_MenoCopie_FixerBasso.SoluzioniTrovate,10,9144.4671,244,19,43
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019.SoluzioniTrovate,1,10989.045026,303,19,57
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019.SoluzioniTrovate,2,10992.250059,302,19,72
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019.SoluzioniTrovate,3,10971.345034,300,19,79
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019.SoluzioniTrovate,4,10972.230036,300,19,89
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019.SoluzioniTrovate,5,10973.495042,301,19,98
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019_MenoCopie_FixerBasso.SoluzioniTrovate,1,11062.934993,304,19,38
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019_MenoCopie_FixerBasso.SoluzioniTrovate,2,11020.615016,302,19,56
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019_MenoCopie_FixerBasso.SoluzioniTrovate,3,11015.784996,301,19,66
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019_MenoCopie_FixerBasso.SoluzioniTrovate,4,11035.979993,302,19,73
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Marzo_2019_MenoCopie_FixerBasso.SoluzioniTrovate,5,11009.079996,302,19,84
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,1,11889.834982,301,18,145
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,2,11884.679956,301,18,170
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,3,11855.664968,297,18,198
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,4,11849.229975,299,18,224
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,5,11845.834969,298,18,243
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,6,11855.274946,300,18,261
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,7,11838.749934,298,18,273
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,8,11830.86994,298,18,288
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,9,11821.959931,297,18,302
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019.SoluzioniTrovate,10,11804.004929,297,18,315
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,1,11901.154915,300,18,70
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,2,11918.589916,302,18,85
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,3,11874.194925,300,18,100
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,4,11892.979942,301,18,111
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,5,11837.539982,298,18,124
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,6,11830.679967,298,18,134
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,7,11828.889963,297,18,142
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,8,11836.239946,298,18,152
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,9,11844.299923,298,18,160
+C:\Users\mato\Desktop\Scenarios\Test_ACS_2019\E-Piloti-Ottobre_2019_MenoCopie_FixerBasso.SoluzioniTrovate,10,11834.049934,298,18,173
